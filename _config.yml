@@ -102,6 +102,7 @@ theme: one-paper
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/ommiao/PrivacyPolicies.git
+  repository: git@github.com:ommiao/PrivacyPolicies.git
   branch: master
+  token: $HEXO_PRIVACY_REPO_TOKEN
 
