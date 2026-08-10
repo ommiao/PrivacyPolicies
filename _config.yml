@@ -105,4 +105,3 @@ deploy:
   repository: git@github.com:ommiao/PrivacyPolicies.git
   branch: master
   token: $HEXO_PRIVACY_REPO_TOKEN
-
